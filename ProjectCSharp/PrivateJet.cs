@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProjectCSharp
 {
-    internal class PrivateJet : ProjectCSharp.Aircraft //mostenire
+    internal class PrivateJet : ProjectCSharp.Aircraft 
     {
         private const int PrivateJetFlightCostPerH = 150;
         public int JetProfit;
