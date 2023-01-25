@@ -1,0 +1,6 @@
+Aircrafts with more than 100 flight hours
+
+Name of Aircraft: Airbus A320, Hours in flight: 250
+Name of Aircraft: Boeing 737 MAX K200, Hours in flight: 250
+Name of Aircraft: Cessna Citation Mustang C75, Hours in flight: 250
+Name of Aircraft: Gulfstream V C-37A, Hours in flight: 250
