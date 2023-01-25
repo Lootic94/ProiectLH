@@ -1,0 +1,15 @@
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ProjectCSharp.csproj.AssemblyReference.cache
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ProjectCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ProjectCSharp.AssemblyInfoInputs.cache
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ProjectCSharp.AssemblyInfo.cs
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ProjectCSharp.csproj.CoreCompileInputs.cache
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\bin\Debug\net6.0\ProjectCSharp.exe
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\bin\Debug\net6.0\ProjectCSharp.deps.json
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\bin\Debug\net6.0\ProjectCSharp.runtimeconfig.json
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\bin\Debug\net6.0\ProjectCSharp.dll
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\bin\Debug\net6.0\ProjectCSharp.pdb
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ProjectCSharp.dll
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\refint\ProjectCSharp.dll
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ProjectCSharp.pdb
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ProjectCSharp.genruntimeconfig.cache
+C:\Users\horat\OneDrive\Desktop\ProiectLH\ProjectCSharp\ProjectCSharp\obj\Debug\net6.0\ref\ProjectCSharp.dll

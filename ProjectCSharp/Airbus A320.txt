@@ -1,0 +1,11 @@
+ProfitPerMonth FOR mar 2012
+**************************************
+Name of Aircraft : Airbus A320
+Hours of flight : 250
+
+Flight cost: $2,250,000.00
+TotalIncome: $5,400,000.00
+LinerProfit: $3,150,000.00
+
+**************************************
+**************************************

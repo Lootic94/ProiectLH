@@ -1,0 +1,11 @@
+ProfitPerMonth FOR mar 2012
+**************************************
+Name of Aircraft : Gulfstream V C-37A
+Hours of flight : 250
+
+Flight cost: $37,500.00
+PrvJetRentCost: $50,000.00
+JetProfit: $12,500.00
+
+**************************************
+**************************************
